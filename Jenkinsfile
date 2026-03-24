@@ -1,4 +1,4 @@
-:pipeline {
+pipeline {
 agent any
 environment {
   DOCKER_image = "rajeshtutta123/game_warrior"
